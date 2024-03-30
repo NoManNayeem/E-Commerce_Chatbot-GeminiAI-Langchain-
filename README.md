@@ -8,7 +8,7 @@ This Streamlit application functions as an e-commerce chatbot, providing a user-
 
 Here are some screenshots of the E-Commerce Chatbot in action:
 
-<img src="./screenshots/Screenshot 1.png" alt="Chatbot Interface" width="600"/>
+<img src="./screenshots/Screenshot 1.png" alt="Chatbot Interface" width="100%"/>
 
 
 
