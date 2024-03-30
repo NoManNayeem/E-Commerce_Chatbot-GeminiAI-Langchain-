@@ -10,7 +10,7 @@ Here are some screenshots of the E-Commerce Chatbot in action:
 
 <img src="./screenshots/Screenshot 1.png" alt="Chatbot Interface" width="600"/>
 
-Note: Adjust the `width` attribute to fit your UI design needs.
+
 
 
 ## Project Structure
